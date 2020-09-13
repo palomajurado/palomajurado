@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="paloma Spotify Playing" width="350" />](https://open.spotify.com/user/palomania?si=5LISidcKS1iYuOCbD5jvRQ)
+[<img src="https://novatorem.palomajurado.vercel.app/api/spotify-playing" alt="paloma Spotify Playing" width="350" />](https://open.spotify.com/user/palomania)
 
 ### Connect with me:
 
@@ -55,6 +55,12 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCwWCNuPZd8DwTLsNSCQcs8Q?view_as=subscriber)
 
 ---
+
+<details>
+
+![Paloma's github stats](https://github-readme-stats.palomajurado.vercel.app/api?username=palomajurado&show_icons=true&theme=bear)
+
+</details>
 
 ---
 
