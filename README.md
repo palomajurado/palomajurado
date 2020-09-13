@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/pal/a.gif">
+  <img src="https://storage.googleapis.com/pal/gif.gif">
 </p>
 
 <div align="center">
