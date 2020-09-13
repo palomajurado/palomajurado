@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/pal/ttgit.png">
+  <img src="https://storage.googleapis.com/pal/gif.gif">
 </p>
 
 <div align="center">
+<a href="https://github.com/alwinw?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat&logo=RSS&logoColor=white"></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=palomajurado.palomajurado">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
 <a href="https://palomajurado.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Projects%20&style=style=flat&color=yellow" alt="Star Badge"/>
 <a href="https://dev.to/palomajurado"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Dev.to&color=7289DA" alt="Dev.to"/></a><br>
