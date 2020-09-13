@@ -1,4 +1,8 @@
-### Hi everyone, I'm Paloma 👋
+<p align="center">
+  <img src="https://storage.googleapis.com/pal/ttgit.png">
+</p>
+
+### 👋
 
 [![Website](https://img.shields.io/website?label=palomajurado.com&style=for-the-badge&url=https%3A%2F%2Fpalomajurado.com)](https://palomajurado.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/palomadeveloper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/palomadeveloper)
@@ -56,13 +60,11 @@
 
 ---
 
-<details>
-
-![Paloma's github stats](https://github-readme-stats-git-master.palomajurado.vercel.app/api?username=palomajurado&show_icons=true&theme=bear)
-
-</details>
+[![Paloma's github stats](https://github-readme-stats.palomajurado.vercel.app/api?username=palomajurado&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+[![Top Langs](https://github-readme-stats.palomajurado.vercel.app/api/top-langs/?username=palomajurado&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://palomajurado.com
 [twitter]: https://twitter.com/palomadeveloper
