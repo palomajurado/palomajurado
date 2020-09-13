@@ -13,7 +13,7 @@
 </br>
  </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm a Front-end developer, Business administrator, Developer, and Pastry fan!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm a Front-end developer, Business administrator and Pastry fan!
 
 - 🔭 I’m currently working on a Vuejs project!.
 - 🌱 I’m currently learning Vuejs Angular , Redux (React). ♡
