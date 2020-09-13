@@ -49,7 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [Deployment de rest API en Digital Ocean!](https://www.youtube.com/watch?v=2pbUETWWpEE)
+- [Rest api con Mongoose, Express, Node, Docker!](https://www.youtube.com/watch?v=co6GXKQk3i0)
+- [Lima|topia social-network!](https://www.youtube.com/watch?v=9zo7bTmG8gc)
+- [Creando una REST API!](https://www.youtube.com/watch?v=riJ6gJW3deE)
+- [👨‍💻 Test Jasvacript API as any user  'p-mdlinks' 👩‍💻](https://www.youtube.com/watch?v=wRivvzrZXic)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwWCNuPZd8DwTLsNSCQcs8Q?view_as=subscriber)
