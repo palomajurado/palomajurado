@@ -2,10 +2,12 @@
   <img src="https://storage.googleapis.com/pal/ttgit.png">
 </p>
 
-### 👋
-
-[![Website](https://img.shields.io/website?label=palomajurado.com&style=for-the-badge&url=https%3A%2F%2Fpalomajurado.com)](https://palomajurado.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/palomadeveloper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/palomadeveloper)
+<div align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=palomajurado.palomajurado">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
+<a href="https://palomajurado.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Projects%20&style=style=flat&color=yellow" alt="Star Badge"/>
+<a href="https://dev.to/palomajurado"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Dev.to&color=7289DA" alt="Dev.to"/></a><br> </div>
 
 ## I'm a Front-end developer, Business administrator, Developer, and Pastry fan!
 
@@ -53,22 +55,32 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Deployment de rest API en Digital Ocean!](https://www.youtube.com/watch?v=2pbUETWWpEE)
 - [Rest api con Mongoose, Express, Node, Docker!](https://www.youtube.com/watch?v=co6GXKQk3i0)
 - [Lima|topia social-network!](https://www.youtube.com/watch?v=9zo7bTmG8gc)
 - [Creando una REST API!](https://www.youtube.com/watch?v=riJ6gJW3deE)
-- [👨‍💻 Test Jasvacript API as any user  'p-mdlinks' 👩‍💻](https://www.youtube.com/watch?v=wRivvzrZXic)
+- [👨‍💻 Test Jasvacript API as any user 'p-mdlinks' 👩‍💻](https://www.youtube.com/watch?v=wRivvzrZXic)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwWCNuPZd8DwTLsNSCQcs8Q?view_as=subscriber)
 
 ---
 
-[![Paloma's github stats](https://github-readme-stats.palomajurado.vercel.app/api?username=palomajurado&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 My metrics
+
+<p align="center">  <img src="https://github-readme-stats.palomajurado.vercel.app/api?username=palomajurado&show_icons=true&theme=dracula" alt="palomastats" />  </p>
+
+<p align="center"> <img src="https://github-readme-stats.palomajurado.vercel.app/api/top-langs/?username=palomajurado&show_icons=true&theme=dracula" alt="palomalanguages" /></p>
 
 ---
 
-[![Top Langs](https://github-readme-stats.palomajurado.vercel.app/api/top-langs/?username=palomajurado&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://palomajurado.com">
+  <img src="https://img.shields.io/website?color=pink&down_color=pink&logo=mastodon&logoColor=pink&style=social&up_color=pink&url=https%3A%2F%2Fpalomajurado.com%2F"></a>
+  <a href="https://twitter.com/palomadeveloper">
+  <img src="https://img.shields.io/twitter/follow/palomadeveloper?label=Follow%20me%21&style=social"></a>
+</p>
 
 [website]: https://palomajurado.com
 [twitter]: https://twitter.com/palomadeveloper
