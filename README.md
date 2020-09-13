@@ -1,15 +1,15 @@
-### Hi everyone, I'm Paloma - [palomajurado.com][website] 👋
+### Hi everyone, I'm Paloma 👋
 
 [![Website](https://img.shields.io/website?label=palomajurado.com&style=for-the-badge&url=https%3A%2F%2Fpalomajurado.com)](https://palomajurado.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/palomadeveloper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/palomadeveloper)
 
 ## I'm a Front-end developer, Business administrator, Developer, and Pastry fan!
 
-- 🔭 I’m currently working on a Vuejs project!
-- 🌱 I’m currently learning Vuejs Angular , Redux (React) ♡ ♥
-- 👯 I’m looking to collaborate with other people in personal and business projects
-- 🥅 2020 Goals: Dominate in a good percentage react
-- ⚡ Fun fact: I love to make cakes and fill sudoku books / play taj mahjonghta (♥ω♥\*)
+- 🔭 I’m currently working on a Vuejs project!.
+- 🌱 I’m currently learning Vuejs Angular , Redux (React). ♡ ♥
+- 👯 I’m looking to collaborate with other people in personal and business projects.
+- 🥅 2020 Goals: Dominate in a good percentage React.
+- ⚡ Fun fact: I love to make cakes and fill sudoku books / play taj mahjonghta. (♥ω♥\*)
 
 ### Spotify Playing 🎧
 
@@ -58,6 +58,14 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwWCNuPZd8DwTLsNSCQcs8Q?view_as=subscriber)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
