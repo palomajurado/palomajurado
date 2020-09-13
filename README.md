@@ -50,9 +50,7 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 
@@ -65,9 +63,10 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwWCNuPZd8DwTLsNSCQcs8Q?view_as=subscriber)
 
----
+<br />
+<br />
 
-### 📈 My metrics
+## 📈 My metrics
 
 <p align="center">  <img src="https://github-readme-stats.palomajurado.vercel.app/api?username=palomajurado&show_icons=true&theme=dracula" alt="palomastats" />  </p>
 
