@@ -7,15 +7,21 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
 <a href="https://palomajurado.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Projects%20&style=style=flat&color=yellow" alt="Star Badge"/>
-<a href="https://dev.to/palomajurado"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Dev.to&color=7289DA" alt="Dev.to"/></a><br> </div>
+<a href="https://dev.to/palomajurado"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Dev.to&color=7289DA" alt="Dev.to"/></a><br>
 
-## I'm a Front-end developer, Business administrator, Developer, and Pastry fan!
+</br>
+</br>
+ </div>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm a Front-end developer, Business administrator, Developer, and Pastry fan!
 
 - 🔭 I’m currently working on a Vuejs project!.
-- 🌱 I’m currently learning Vuejs Angular , Redux (React). ♡ ♥
+- 🌱 I’m currently learning Vuejs Angular , Redux (React). ♡
 - 👯 I’m looking to collaborate with other people in personal and business projects.
 - 🥅 2020 Goals: Dominate in a good percentage React.
 - ⚡ Fun fact: I love to make cakes and fill sudoku books / play taj mahjonghta. (♥ω♥\*)
+
+</br>
 
 ### Spotify Playing 🎧
 
@@ -29,7 +35,8 @@
 [<img align="left" alt="palomajurado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="palomajurado | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+</br>
+</br>
 
 ### Languages and Tools:
 
@@ -47,8 +54,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
-<br />
+</br>
+</br>
+</br>
 
 ## 📺 Latest YouTube Videos
 
@@ -59,18 +67,23 @@
 - [Lima|topia social-network!](https://www.youtube.com/watch?v=9zo7bTmG8gc)
 - [Creando una REST API!](https://www.youtube.com/watch?v=riJ6gJW3deE)
 - [👨‍💻 Test Jasvacript API as any user 'p-mdlinks' 👩‍💻](https://www.youtube.com/watch?v=wRivvzrZXic)
-<!-- YOUTUBE:END -->
+  <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCwWCNuPZd8DwTLsNSCQcs8Q?view_as=subscriber)
+  ➡️ [more videos...](https://www.youtube.com/channel/UCwWCNuPZd8DwTLsNSCQcs8Q?view_as=subscriber)
 
-<br />
-<br />
+</br>
 
 ## 📈 My metrics
 
-<p align="center">  <img src="https://github-readme-stats.palomajurado.vercel.app/api?username=palomajurado&show_icons=true&theme=dracula" alt="palomastats" />  </p>
+<p align="center"> </br>
+</br> <img src="https://github-readme-stats.palomajurado.vercel.app/api?username=palomajurado&show_icons=true&theme=dracula" alt="palomastats" />  </p>
 
-<p align="center"> <img src="https://github-readme-stats.palomajurado.vercel.app/api/top-langs/?username=palomajurado&show_icons=true&theme=dracula" alt="palomalanguages" /></p>
+<p align="center"> <img src="https://github-readme-stats.palomajurado.vercel.app/api/top-langs/?username=palomajurado&show_icons=true&theme=dracula" alt="palomalanguages" />
+
+</br>
+</br>
+
+</p>
 
 ---
 
